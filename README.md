@@ -1,7 +1,6 @@
 # myrepo
-##Testing my setup via https://happygitwithr.com/push-pull-github.html#push-pull-github tutorial.
-
-#What I have done so far:
+# Testing my setup via https://happygitwithr.com/push-pull-github.html#push-pull-github tutorial.
+# What I have done so far:
 <br>
 git config --global user.name "NolanBentley"
 <br>
