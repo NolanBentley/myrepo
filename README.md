@@ -8,6 +8,7 @@ git config --global user.name "NolanBentley"
 git config --global user.email "nolanbentley@gmail.com"
 <br>
 git config --global core.editor "emacs"
+<br>
 #### Chapter 9 Connect to GitHub
 mkdir /data/Nolan/Git
 <br>
@@ -18,4 +19,5 @@ git clone https://github.com/NolanBentley/myrepo.git
 cd ./myrepo
 echo "bob" > bob.txt
 git add 
+<br>
 #### This caused an error becuase I had been modifying this readme to take notes. Pausing notes...
