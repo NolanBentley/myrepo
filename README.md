@@ -2,13 +2,13 @@
 ##Testing my setup via https://happygitwithr.com/push-pull-github.html#push-pull-github tutorial.
 
 #What I have done so far:
-\n
+<br>
 git config --global user.name "NolanBentley"
-\n
+<br>
 git config --global user.email "nolanbentley@gmail.com"
-\n
+<br>
 mkdir /data/Nolan/Git
-\n
+<br>
 cd /data/Nolan/Git
-\n
+<br>
 git clone https://github.com/NolanBentley/myrepo.git
