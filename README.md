@@ -9,7 +9,7 @@ git config --global user.email "nolanbentley@gmail.com"
 <br>
 git config --global core.editor "emacs"
 <br>
-#### Chapter 9 Connect to GitHub
+### Chapter 9 Connect to GitHub
 mkdir /data/Nolan/Git
 <br>
 cd /data/Nolan/Git
